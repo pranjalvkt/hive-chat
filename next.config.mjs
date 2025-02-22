@@ -1,7 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    basePath: "/chat",
-    trailingSlash: true,
-};
+const nextConfig = {};
 
 export default nextConfig;
